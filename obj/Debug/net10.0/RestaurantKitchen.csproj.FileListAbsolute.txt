@@ -1,0 +1,14 @@
+/Users/sashengovinasamy/Documents/Dev/Dotnet/Mediator/src/RestaurantKitchen/bin/Debug/net10.0/RestaurantKitchen
+/Users/sashengovinasamy/Documents/Dev/Dotnet/Mediator/src/RestaurantKitchen/bin/Debug/net10.0/RestaurantKitchen.deps.json
+/Users/sashengovinasamy/Documents/Dev/Dotnet/Mediator/src/RestaurantKitchen/bin/Debug/net10.0/RestaurantKitchen.runtimeconfig.json
+/Users/sashengovinasamy/Documents/Dev/Dotnet/Mediator/src/RestaurantKitchen/bin/Debug/net10.0/RestaurantKitchen.dll
+/Users/sashengovinasamy/Documents/Dev/Dotnet/Mediator/src/RestaurantKitchen/bin/Debug/net10.0/RestaurantKitchen.pdb
+/Users/sashengovinasamy/Documents/Dev/Dotnet/Mediator/src/RestaurantKitchen/obj/Debug/net10.0/RestaurantKitchen.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sashengovinasamy/Documents/Dev/Dotnet/Mediator/src/RestaurantKitchen/obj/Debug/net10.0/RestaurantKitchen.AssemblyInfoInputs.cache
+/Users/sashengovinasamy/Documents/Dev/Dotnet/Mediator/src/RestaurantKitchen/obj/Debug/net10.0/RestaurantKitchen.AssemblyInfo.cs
+/Users/sashengovinasamy/Documents/Dev/Dotnet/Mediator/src/RestaurantKitchen/obj/Debug/net10.0/RestaurantKitchen.csproj.CoreCompileInputs.cache
+/Users/sashengovinasamy/Documents/Dev/Dotnet/Mediator/src/RestaurantKitchen/obj/Debug/net10.0/RestaurantKitchen.dll
+/Users/sashengovinasamy/Documents/Dev/Dotnet/Mediator/src/RestaurantKitchen/obj/Debug/net10.0/refint/RestaurantKitchen.dll
+/Users/sashengovinasamy/Documents/Dev/Dotnet/Mediator/src/RestaurantKitchen/obj/Debug/net10.0/RestaurantKitchen.pdb
+/Users/sashengovinasamy/Documents/Dev/Dotnet/Mediator/src/RestaurantKitchen/obj/Debug/net10.0/RestaurantKitchen.genruntimeconfig.cache
+/Users/sashengovinasamy/Documents/Dev/Dotnet/Mediator/src/RestaurantKitchen/obj/Debug/net10.0/ref/RestaurantKitchen.dll
