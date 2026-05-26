@@ -1,3 +1,4 @@
+using RestaurantKitchen.Components;
 namespace RestaurantKitchen.Mediator;
 public interface IKitchenMediator
 {
